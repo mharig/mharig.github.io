@@ -1,4 +1,4 @@
-# Github scraper
+## Github scraper
 
 Was unbedingt nötig ist an Dateien für die Github Pages sind eigentlich nur Beiträge im _posts Unterordner, Format <YYY-MM-DD-Titel.md>. Wobei das natürlich vom theme abhängt.
 Wer die landing page verändern will, sollte die index.html aus dem Wurzelverzeichnis des themes kopieren, das _layouts Verzeichnis könnte auch interessant sein.
