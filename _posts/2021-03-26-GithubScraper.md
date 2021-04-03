@@ -7,4 +7,4 @@ Mathjax habe ich erstmal hinten an gestellt, die Beispiele im Internet haben nic
 Dafür gibt es ein neues Projekt: DIVI. Es benutzt Github Actions, um etwas zu bewerkstelligen, das sich [git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) nennt.
 Momentan lädt es nur einmal am Tag die aktuellen Daten des [Deutschen Intensivregisters](www.divi.de) runter und hängt diese an eine CSV-Datei an.
 Leider gibt es diese Daten nur als Tagesdaten, und die Joomla-Verzeichnisstruktur macht das Herausfinden der URL einer speziellen Datei nur anhand des Datums
-schwierig bis unmöglich, sodass es nicht einfach ist, alle Tagesdaten runter zu saugen. Vielleicht bringe ich irgendwann einmal eine Auswertung dieser Daten hier in den blog.
+schwierig bis unmöglich, sodass es nicht einfach ist alle Tagesdaten runter zu saugen. Vielleicht bringe ich irgendwann einmal eine Auswertung dieser Daten hier in den blog.
