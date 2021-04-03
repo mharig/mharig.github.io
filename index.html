@@ -4,8 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts reversed %}
-    <div>
-      <article class="post">
+      <article class="post" style="margin-bottom: 2em;">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -13,8 +12,7 @@ layout: default
           {{ post.excerpt }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen...</a>
       </article>
-    </div>    
   {% endfor %}
 </div>
