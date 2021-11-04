@@ -1,2 +1,2 @@
-## Ein Blog über Wissenschaft, Technik, Politk
+## Ein Blog über Wissenschaft, Technik, Politik
 
