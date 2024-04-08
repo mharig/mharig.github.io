@@ -6,3 +6,5 @@ Dafür gibt es ein neues Projekt: DIVI. Es benutzt Github Actions, um etwas zu b
 Momentan lädt es nur einmal am Tag die aktuellen Daten des [Deutschen Intensivregisters](www.divi.de) runter und hängt diese an eine CSV-Datei an.
 Leider gibt es diese Daten nur als Tagesdaten, und die Joomla-Verzeichnisstruktur macht das Herausfinden der URL einer speziellen Datei nur anhand des Datums
 schwierig bis unmöglich, sodass es nicht einfach ist alle Tagesdaten runter zu saugen. Vielleicht bringe ich irgendwann einmal eine Auswertung dieser Daten hier in den blog.
+
+Edit 20240408: DIVI ändern häufiger die Verzeichnisstruktur. Das Projekt ist deshalb deaktiviert.
